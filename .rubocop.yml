@@ -1,0 +1,24 @@
+AllCops:
+  Include:
+    - '**/Gemfile'
+    - lib/**/*.rb
+    - spec/**/*.rn
+    - sorting_algorithm.gemspec
+MethodLength:
+  Exclude:
+    - lib/**/*.rb
+ClassLength:
+  Exclude:
+    - lib/**/*.rb
+ParameterLists:
+  Exclude:
+    - lib/**/*.rb
+Metrics/CyclomaticComplexity:
+  Exclude:
+    - lib/**/*.rb
+Metrics/PerceivedComplexity:
+  Exclude:
+    - lib/**/*.rb
+Metrics/AbcSize:
+  Exclude:
+    - lib/**/*.rb
