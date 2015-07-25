@@ -6,6 +6,7 @@ This is an attempt to build a gem containing all sorting algorithms for Ruby.
 
 - Bubble
 - Insertion
+- Quick
 - Selection
 - Shell
 
@@ -17,6 +18,5 @@ This is an attempt to build a gem containing all sorting algorithms for Ruby.
 - Comb
 - Heap
 - Merge
-- Quick
 - In place Quick
 - Gnome
